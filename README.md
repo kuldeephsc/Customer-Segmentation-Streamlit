@@ -1,6 +1,7 @@
 ### **Customer Segmentation App 🧑‍🤝‍🧑|👨‍👨‍👦|👨‍👩‍👧‍👦**
 
-![Customer-Segmentation png](https://github.com/tieugem1997/CustomerSegmentation_Streamlit/assets/39017335/32be23de-981f-4865-9676-6712560f3097)
+<img width="1536" height="1024" alt="ChatGPT Image Sep 22, 2025, 12_41_00 AM" src="https://github.com/user-attachments/assets/3c01c8c5-5560-42e9-ba49-43f5e9fdc889" />
+
 
 #### **About**
 
